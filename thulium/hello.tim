@@ -218,3 +218,6 @@ ascii_print
 mov_right
 M to C
 ascii_print
+end
+
+As of Thulium 2.0.3, the "end" cmd is used to denote the end of a program and to stop the program taking ages to exit the running process.
