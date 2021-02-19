@@ -1,4 +1,4 @@
-// Typescript program to print the first 10 digits of the fibonacci sequence
+// Javascript program to print the first 10 digits of the fibonacci sequence
 
 var fib = new Array()
 fib.push(1, 1)
