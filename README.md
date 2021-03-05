@@ -13,3 +13,6 @@
   - Titanium
   - FreakC
   - VNC
+
+## Credits
+Big thanks to @nguyenphuminh for adding most of the languages in this database.
